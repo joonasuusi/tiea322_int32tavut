@@ -1,0 +1,13 @@
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.exe
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.deps.json
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.runtimeconfig.json
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.runtimeconfig.dev.json
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.dll
+C:\Users\Joonas\source\repos\tiea322\rtp2\bin\Debug\netcoreapp3.1\rtp2.pdb
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.csprojAssemblyReference.cache
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.AssemblyInfoInputs.cache
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.AssemblyInfo.cs
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.csproj.CoreCompileInputs.cache
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.dll
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.pdb
+C:\Users\Joonas\source\repos\tiea322\rtp2\obj\Debug\netcoreapp3.1\rtp2.genruntimeconfig.cache
